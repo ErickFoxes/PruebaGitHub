@@ -18,6 +18,7 @@ public class Prueba {
         System.out.println("Allá en la fuente habia un chorrito\nse hacia grande se hacia chiquito\nEstaba de mal humor\npobre chorrito tenía calor ");
         System.out.println("Hola mundo ");
         //sd
+        System.out.println("Yaou is life");
     }
     
 }
